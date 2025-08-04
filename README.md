@@ -5,7 +5,7 @@ GRUPOS
 
 1_ Emanuel, Victor Lucas, Francisco, Rodrigo Vinicios, Rodrigo Dornelos, Gustavo Bianor(lider Emanuel)
 
-2_ Diego, Rian, Arthur, Davi, Bruno, Matheus Lima(lider Diego)
+2_ Diego, Ryan, Arthur, Davi, Bruno, Matheus Lima(lider Diego)
 
 3_ José Carlos, Vitor Araujo, Bruna, Gustavo Piva, Matheus Teixeira, lyvia(lider Matheus Teixeira)
 
